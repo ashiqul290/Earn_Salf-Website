@@ -124,6 +124,21 @@ const demoUsers = [
     trainer: "Rion Ahmed",
     collectedUsers: 20,
     premiumUsers: 12,
+  }, 
+  {
+    id: 9,
+    name: "Dipok Dash",
+    phone: "01712345685",
+    role: "premium",
+    referredBy: "Sabbir Hossain",
+    balance: 660,
+    status: "inactive",
+    joinDate: "2025-03-01",
+    referralCode: "SHA008",
+    email: "dipok11@gmail.com",
+    trainer: "Rion Ahmed",
+    collectedUsers: 25,
+    premiumUsers: 12,
   },
 ];
 

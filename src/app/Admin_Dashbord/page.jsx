@@ -139,7 +139,7 @@ const stats = [
   { label: "Monthly Earnings", value: 6340,  icon: MdBarChart,             bg: "bg-orange-100",  color: "text-orange-500",  prefix: "৳" },
   { label: "Total Referral",   value: 3201,  icon: MdShare,                bg: "bg-pink-100",    color: "text-pink-500",    trend: 20 },
   { label: "Monthly Referral", value: 412,   icon: MdTrendingUp,           bg: "bg-rose-100",    color: "text-rose-500"               },
-  { label: "Total Cashout",    value: 38200, icon: MdAccountBalanceWallet, bg: "bg-violet-100",  color: "text-violet-500",  prefix: "৳" },
+  { label: "Total Cashout",    value: 48200, icon: MdAccountBalanceWallet, bg: "bg-violet-100",  color: "text-violet-500",  prefix: "৳" },
 ];
 
 const activityTypes = {
