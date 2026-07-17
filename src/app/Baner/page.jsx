@@ -79,7 +79,7 @@ export default function HomePage() {
             </span>
           </h1>
           <p className="text-gray-500 text-sm mt-2 max-w-xs mx-auto">
-            Join thousands of affiliates earning with EarnSelf every day.
+            Join thousands of affiliates earning with EarnSelf every day
           </p>
         </div>
 

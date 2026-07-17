@@ -5,12 +5,12 @@ import { FaPhoneAlt, FaUserShield, FaWallet, FaUserEdit, FaWhatsapp, FaCheck, Fa
 import { MdPerson } from "react-icons/md";
 
 const initialProfile = {
-  name: "Shahriear Al Amin",
-  phone: "01788812345",
+  name: "Mogdho Roy",
+  phone: "01654624510",
   role: "User",
   balance: 1000,
   trainer: {
-    name: "Sakib Khan",
+    name: "Sojib Hasan",
     phone: "01712345678",
   },
 };

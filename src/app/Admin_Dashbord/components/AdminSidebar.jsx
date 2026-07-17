@@ -95,7 +95,7 @@ export default function AdminSidebar({ open, onClose }) {
         </nav>
 
         <div className="px-5 py-4 border-t border-white/10">
-          <p className="text-[11px] text-white/30">EarnSelf Admin v1.0</p>
+          <p className="text-[11px] text-white/30">EarnSelf Admin v1.1</p>
         </div>
       </aside>
     </>
